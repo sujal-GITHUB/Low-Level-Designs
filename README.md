@@ -4,7 +4,7 @@ A collection of **Low-Level Design (LLD) implementations** in C++. Each project 
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository is intended for **practice and learning of LLD concepts**. Each folder/project contains a complete implementation of a system design problem, including:
 
