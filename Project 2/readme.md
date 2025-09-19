@@ -1,11 +1,11 @@
-# 🥤 Vending Machine Simulation (C++)
+# Vending Machine Simulation (C++)
 
 This project implements a simulation of a **Vending Machine system** using C++.  
 It demonstrates core object-oriented programming concepts such as **classes**, **encapsulation**, **static members**, and **relationships between objects**.
 
 ---
 
-## 📂 Features
+## Features
 
 - Add products with name, price, and quantity.  
 - Sell products while checking stock and available money.  
@@ -16,7 +16,7 @@ It demonstrates core object-oriented programming concepts such as **classes**, *
 
 ---
 
-## 🏗️ Classes Overview
+## Classes Overview
 
 ### **Product**
 - Represents an individual item.  
@@ -42,7 +42,7 @@ It demonstrates core object-oriented programming concepts such as **classes**, *
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add a user-friendly interface for interaction.  
 - Implement customer purchase history tracking.  

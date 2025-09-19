@@ -4,7 +4,7 @@ This project is a **C++ implementation of a Q&A system**, inspired by platforms 
 
 ---
 
-## 📖 Overview
+## Overview
 
 The system models a Q&A platform with the following entities:
 
@@ -25,7 +25,7 @@ Key features implemented:
 
 ---
 
-## 🎯 Key Learnings
+## Key Learnings
 
 - Applying **OOP principles** in system design.
 - Implementing **Singleton pattern** for the central system.
@@ -34,17 +34,31 @@ Key features implemented:
 - Calculating **user reputation** based on activity.
 
 ---
+## Future Enhancements
 
-## 🤝 Contribution
+- **Advanced Reputation System**  
+  Introduce more granular scoring, e.g., +10 for an upvote, -2 for a downvote, badges, and ranks for active users.  
 
-Contributions are welcome! You can:
+- **Search & Filtering**  
+  Implement search functionality to filter questions by tags, keywords, or popularity.  
 
-- Add new functionalities like search, tags filtering, or answer ranking.
-- Improve existing code structure or add additional design patterns.
-- Write more comprehensive test cases and examples.
+- **Tag Management**  
+  Allow users to create, follow, and organize tags to improve content discoverability.  
 
----
+- **User Profiles & Activity Logs**  
+  Each user could have a profile showing their questions, answers, comments, and reputation history.  
 
-## 📜 License
+- **Accepting Answers**  
+  Question askers can mark an answer as “accepted,” giving additional reputation to the answerer.  
 
-This repository is **open-source** and free to use for learning and practice.
+- **Notifications System**  
+  Users get notified when their question is answered, their answer is commented on, or they receive a vote.  
+
+- **Persistence Layer**  
+  Store data in a database or file system so that questions, answers, and users are retained across sessions.  
+
+- **Concurrency & Scaling**  
+  Enhance design to handle multiple users interacting simultaneously, mimicking real-world platforms.  
+
+- **UI/UX Improvements**  
+  Add a command-line interface (CLI) or web-based frontend for better user interaction.  
